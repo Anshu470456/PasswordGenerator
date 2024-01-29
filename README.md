@@ -22,3 +22,20 @@ Welcome to the Password Generator, a React Native project that simplifies the cr
    ```bash
    npm start
      
+## Usage
+
+1. Run the app: npm start
+2. Open the app on your device using the Expo Go app or an emulator.
+3. Customize your password settings (length, character types).
+4. Click the "Generate Password" button to get a randomly generated password.
+5. Press the "Copy" button to copy the password to your clipboard.
+
+## Technologies Used
+
+- React Native
+- Expo CLI
+- Clipboard API
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
