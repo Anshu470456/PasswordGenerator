@@ -19,5 +19,6 @@ Welcome to the Password Generator, a React Native project that simplifies the cr
    ```bash
    npm install
 3. Run the app:
-  ```bash
-    npm start
+   ```bash
+   npm start
+     
